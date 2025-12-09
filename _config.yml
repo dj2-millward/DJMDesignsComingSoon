@@ -2,9 +2,9 @@
 markdown: kramdown
 
 # URL of the Site
-url: 'https://www.djmdesigns.uk'
+url: 'www.djmdesigns.uk'
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
-baseurl: 
+baseurl: dj2-millward.github.io
 
 # Title of the Site
 title: DJM Designs
@@ -22,13 +22,13 @@ heroimage: /assets/images/main.png
 
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
-email: thedevslot@gmail.com
+email: djmdesigns.uk
 facebook_username: profile.php?id=61583828260648
-twitter_username: thedevslot
+twitter_username: /
 instagram_username: thedevslot
-linkedin_username: thedevslot
-github_username:  thedevslot
-youtube_channel_id: UCk_93NXYP-U_AOB5GfWlOow
+linkedin_username: djmillward
+github_username:  dj2.millward
+youtube_channel_id: /
 reddit_username: /
 behance_username: /
 dribbble_username: /
