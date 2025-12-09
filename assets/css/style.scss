@@ -67,11 +67,7 @@ a.navbar-item.is-active {
 .subtitle {
     letter-spacing: 0.25rem;
 }
-.heading-line {
-    border-bottom: 2px solid orange;
-    display: inline-block;   // makes the line fit text width
-    padding-bottom: 0.5rem; 
-}
+
 #about {
     .image {
         max-width: 20vmax;
