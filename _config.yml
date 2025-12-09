@@ -4,7 +4,7 @@ markdown: kramdown
 # URL of the Site
 url: 'www.djmdesigns.uk'
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
-baseurl:
+baseurl: ""
 
 # Title of the Site
 title: DJM Designs
@@ -25,7 +25,7 @@ heroimage: /assets/images/main.png
 email: djmdesigns.uk
 facebook_username: profile.php?id=61583828260648
 twitter_username: /
-instagram_username: thedevslot
+instagram_username: /
 linkedin_username: djmillward
 github_username:  dj2.millward
 youtube_channel_id: /
