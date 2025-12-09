@@ -67,7 +67,11 @@ a.navbar-item.is-active {
 .subtitle {
     letter-spacing: 0.25rem;
 }
-
+.heading-line {
+    border-bottom: 2px solid orange;
+    display: inline-block;   // makes the line fit text width
+    padding-bottom: 0.5rem; 
+}
 #about {
     .image {
         max-width: 20vmax;
@@ -89,20 +93,27 @@ a.navbar-item.is-active {
         margin: 0.5rem auto;
         display: flex;
         justify-content: center;
+        &:hover {
+        background-color: #0D2A3A !important; // black background
+        color: white !important; // white text
+        border-color: black !important; // black border
     }
+    }
+    
 
-    svg {
+    i {
         transition: all 0.15s ease-in-out;
         margin: auto 0.75vmax;
 
         &:hover {
             transform: scale(1.10);
-            filter: opacity(0.75);
+            filter: opacity(0.9);
+            color: #0D2A3A;
         }
     }
 
     hr {
-        background-color: black;
+        background-color: #0D2A3A;
     }
 }
 
