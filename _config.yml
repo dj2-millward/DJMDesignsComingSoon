@@ -24,18 +24,18 @@ heroimage: /assets/images/main.png
 # If you don't want to use any icon, you can leave them blank.
 email: dan@djmdesigns.uk
 facebook_username: profile.php?id=61583828260648
-twitter_username: /
+twitter_username:
 instagram_username: /
 linkedin_username: djmillward
-github_username:  dj2.millward
-youtube_channel_id: /
-reddit_username: /
-behance_username: /
-dribbble_username: /
-spotify_username: /
+github_username: dj2-millward
+youtube_channel_id: 
+reddit_username:
+behance_username: 
+dribbble_username: 
+spotify_username: 
 
 # Google Analytics
-google-analytics: UA-163806439-1
+google-analytics: G-TDSWD1X6E0
 
 # Disqus
 disqus-shortname: thedevslot
